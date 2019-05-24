@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
+    "@material-ui/styles": "^4.0.0",
     "jquery": "^3.4.1",
     "materializecss": "^1.0.11",
     "react": "^16.8.6",
@@ -14,6 +15,7 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1",
     "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
     "thunk": "0.0.1"
   },
   "scripts": {
